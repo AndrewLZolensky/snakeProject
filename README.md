@@ -1,2 +1,2 @@
 # snakeProject
-JavaScript Snake Game
+JavaScript Snake Game, learning JS
