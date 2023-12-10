@@ -1,0 +1,2 @@
+# snakeProject
+JavaScript Snake Game
